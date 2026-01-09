@@ -3,7 +3,6 @@
 Computer Science student at University of Saskatchewan passionate about full-stack development and collaborative software engineering.
 
 ## 🔧 Technologies & Tools
-
 - **Languages:** Python, Java, JavaScript, TypeScript, C, Bash
 - **Frontend:** React, Angular, HTML/CSS
 - **Backend:** Node.js, Express
