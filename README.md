@@ -18,8 +18,8 @@ Computer Science student at University of Saskatchewan passionate about full-sta
 ## 📫 Connect
 
 - GitHub: [@Fathia-Sadiq](https://github.com/Fathia-Sadiq)
-- GitLab: [@jul845](https://git.cs.usask.ca/ytp825/cmpt-370-project)
-- LinkedIn:  linkedin.com/in/fathia-sadiq
+- GitLab: [@jul846](https://git.cs.usask.ca/ytp825/cmpt-370-project)
+- LinkedIn: [linkedin.com/in/fathia-sadiq]
 
 ---
 
